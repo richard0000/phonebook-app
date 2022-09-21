@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "ricardo",
+        "MONGO_PASSWORD": "holacomoestas",
+        "MONGO_DB": "phone_book_db",
+        "PORT": 8001
+    }
+}
