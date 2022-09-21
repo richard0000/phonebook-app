@@ -17,3 +17,6 @@ This application is using a cloud MongoDB database on MongoDB Atlas.
 - `cd backend`
 - `yarn i`
 - `yarn start`
+
+### It should look like this
+![image](https://user-images.githubusercontent.com/6996951/191532693-84d12e64-12c9-47ec-b3bd-131fb9045122.png)
